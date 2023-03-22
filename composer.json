@@ -44,7 +44,7 @@
     "o3-shop/flow-theme": "dev-b-3.x as v1.0.99",
     "o3-shop/gdpr-optin-module": "dev-main as v1.0.99",
     "o3-shop/shop-demodata-ce": "dev-b-6.0 as v1.0.99",
-    "o3-shop/shop-facts": "dev-b-7.0.x as v1.0.99",
+    "o3-shop/shop-facts": "^1.0.0",
     "o3-shop/paypal-module": "dev-main as v1.0.99",
     "o3-shop/wave-theme": "dev-b-1.x as v1.0.99",
     "o3-shop/usercentrics": "dev-b-6.5.x as v1.0.99",
