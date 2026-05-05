@@ -43,7 +43,6 @@
     "monolog/monolog": "^v2.10",
     "o3-shop/shop-ce": "v1.6.0-RC3",
     "o3-shop/o3-theme": "^v1.2.0",
-    "o3-shop/flow-theme": "v1.1.0",
     "o3-shop/gdpr-optin-module": "v1.0.1",
     "o3-shop/shop-demodata-ce": "^v1.4.0",
     "o3-shop/shop-facts": "v1.0.4",
